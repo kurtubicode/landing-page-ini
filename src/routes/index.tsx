@@ -119,7 +119,7 @@ function Landing() {
               <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary">
                 Sistem Informasi Desa
               </p>
-              <h1 className="mt-4 font-display text-4xl font-extrabold leading-[1.05] tracking-tight text-foreground sm:text-5xl md:text-6xl">
+              <h1 className="mt-5 max-w-md text-base leading-relaxed text-muted-foreground text-slate-200">
                 Digitalisasi
                 <br />
                 Pelayanan Publik
