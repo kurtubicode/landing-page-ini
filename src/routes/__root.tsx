@@ -77,10 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "description", content: "Portal pelayanan publik desa: persuratan mandiri, aduan warga, dan tracking status secara real-time." },
       { name: "author", content: "SADESA" },
       { property: "og:title", content: "SADESA — Sistem Informasi Desa Terpadu" },
-      { property: "og:description", content: "Digitalisasi pelayanan publik desa untuk tata kelola yang transparan, efektif, dan akuntabel." },
+      { property: "og:description", content: "Portal pelayanan publik desa: persuratan mandiri, aduan warga, dan tracking status secara real-time." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "SADESA — Sistem Informasi Desa Terpadu" },
+      { name: "twitter:description", content: "Portal pelayanan publik desa: persuratan mandiri, aduan warga, dan tracking status secara real-time." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/eefa7cd9-e21d-4a31-9d3c-a287b3b2996b/id-preview-41b8c312--47d12a39-8cfc-4ac0-9de8-609978fcc7b0.lovable.app-1778212492455.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/eefa7cd9-e21d-4a31-9d3c-a287b3b2996b/id-preview-41b8c312--47d12a39-8cfc-4ac0-9de8-609978fcc7b0.lovable.app-1778212492455.png" },
     ],
     links: [
       {
